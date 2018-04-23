@@ -3,7 +3,7 @@ typedef struct{
  char nombre[10];
  //float pri;
 }TipoHabitacion;
-
+//prueba
 typedef struct{
  int num;
  struct TipoHabitacion tipo;
