@@ -17,6 +17,6 @@ typedef struct{
 
 void listaDePacientes(Medico m);
 void anaydirMedicoFichero(Medico p,char *filename);
-
+void eliminarMedico();
 
 #endif
